@@ -1,1 +1,1 @@
-# Coulomb_Bipartite
+# This Repository is part of a publication. It is created to calculate currrents using the NEGF formalism for systems with onsite Coulomb Interactions in the Hartree-Fock and Hubbard One approximation.
